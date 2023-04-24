@@ -3,5 +3,5 @@
 
   <default remote="github" revision="ref/remotes/origin/main"  sync-j="4" />
 
-  <project path="c-dojo-local" name="c-dojo" />
+  <project path="c-dojo" name="c-dojo" />
 </manifest>
