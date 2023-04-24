@@ -1,7 +1,7 @@
 <manifest>
   <remote name="github" fetch="git://github.com/isaachan" />
 
-  <default remote="github" sync-j="4" />
+  <default remote="github" revision="ref/remotes/origin/main"  sync-j="4" />
 
   <project path="c-dojo" name="c-dojo-local" />
 </manifest>
