@@ -1,5 +1,5 @@
 <manifest>
-  <remote name="github" fetch="git://github.com/isaachan">
+  <remote name="github" fetch="git://github.com/isaachan" />
 
   <default remote="github" sync-j="4" />
 
